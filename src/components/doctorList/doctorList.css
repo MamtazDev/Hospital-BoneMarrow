@@ -1,0 +1,47 @@
+
+.doctor_title {
+    color: #fff;
+    max-width: 835px;
+    margin: auto;
+    margin-bottom: 32px;
+}
+.doctor_title h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.swiper-wrapper {
+    padding-bottom: 53px;
+}
+
+
+.doctor_section {
+    background: #0E628D;
+    padding-top: 50px;
+    padding-bottom: 15px;
+}
+
+
+.doctro_slider_content {
+    background: #fff;
+    height: 390px;
+    border-radius: 10px;
+}
+
+.doctro_slider_content img {
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+}
+.s_body {
+    padding: 10px 10px 0px 10px;
+}
+.s_body h4 {
+    font-size: 16px;
+    color: var(--primary_color);
+}
+.s_body p {
+    margin: 0;
+    padding: 0;
+}
+
+ 

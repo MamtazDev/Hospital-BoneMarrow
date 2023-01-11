@@ -1,0 +1,44 @@
+.contact_section {
+    background-color: #08557E;
+    padding: 20px 0px
+}
+.contact_list ul {
+    margin: 0;
+}
+.contact_list ul li p {
+    color: #fff;
+    font-size: 22px;
+    margin: 0;
+}
+.contact_list ul li {
+    list-style: none;
+}
+.contact_list ul li p span {
+    color: var(--secondary_color);
+
+}
+
+.contact_list ul li a {
+    color: #fff;
+    background: var(--secondary_color);
+    padding: 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: block;
+}
+.contact_list ul li img {
+    position: absolute;
+    top: -51px;
+    left: 26%;
+    width: 124px;
+}
+/* .contact_list ul li img {
+    position: absolute;
+    top: -32px;
+    left: 50%;
+    width: 124px;
+} */
+
+.contact_area {
+    position: relative;
+}

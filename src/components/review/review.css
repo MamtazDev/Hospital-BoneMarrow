@@ -1,0 +1,49 @@
+.review_section {
+    margin-bottom: 70px;
+}
+.review_title {
+    text-align: center;
+    padding: 50px 0px 30px;
+}
+
+.review_title h2 {
+    color: #083659;
+}
+
+.review_txt h2 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #083659;
+    line-height: 32px;
+}
+
+.review_list ul {
+    margin: 0;
+    padding: 0;
+}
+
+.review_list ul li {
+    list-style: none;
+    line-height: 26px;
+}
+
+.review_list {
+    margin: 17px 0px 14px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 27px;
+}
+
+.review_txt p {
+    font-size: 15px;
+    padding-top: 12px;
+    line-height: 26px;
+}
+.video {
+    margin-bottom: 30px;
+}
+
+.review_bottom p {
+    color: #083659;
+    font-weight: 700;
+    margin-top: 8px;
+}

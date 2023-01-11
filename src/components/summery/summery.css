@@ -1,0 +1,13 @@
+.summery_section {
+    background-color: var(--secondary_color);
+    padding: 45px 0px 55px 0px;
+}
+.summery_text {
+    color: #fff;
+    max-width: 500px;
+    margin: auto;
+}
+
+.summery_text h2 {
+    font-size: 30px;
+}

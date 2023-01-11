@@ -1,0 +1,21 @@
+:root {
+  --primary_color: #058ED2;
+  --secondary_color: #E6771B;
+}
+
+.hero_submit_btn {
+  background-color: var(--secondary_color);
+  width: 100%;
+  border: none;
+  color: #fff;
+  text-transform: uppercase;
+  padding: 7px 0px;
+  border-radius: 3px;
+  transition: all .3s ease-in-out;
+  margin-bottom: 10px;
+}
+
+.hero_submit_btn:hover {
+  background-color: #058ED2;
+}
+
